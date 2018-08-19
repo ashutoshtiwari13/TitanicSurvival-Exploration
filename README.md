@@ -14,7 +14,7 @@ In this problem, we ask you to complete the analysis of what sorts of people wer
 In this project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. Start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data.
 
 ## Installation ##
-This project requires ***Python 2.7*** and the following Python libraries installed:
+The project requires ***Python 2.7*** and the following Python libraries installed:
 
 * [Numpy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
@@ -32,7 +32,7 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Dataset Details ##
 
-* DName : Titanic_data.csv
+* dName : Titanic_data.csv
 * survival ? Survival (0 = No; 1 = Yes)
 * pclass ? Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
 * name ? Name
@@ -43,7 +43,7 @@ This will open the iPython Notebook software and project file in your browser.
 * ticket ? Ticket Number
 * fare ? Passenger Fare
 * cabin ? Cabin
-* embarked ? Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+* Embarked ? Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 
 ## Results ##
